@@ -65,6 +65,8 @@
     <Compile Include="Item.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Rules\IRule.cs" />
+    <Compile Include="Rules\ItemRule.cs" />
     <Compile Include="Tests\GildedRoseTest.cs" />
   </ItemGroup>
   <ItemGroup>
